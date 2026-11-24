@@ -1,0 +1,10 @@
+export type Unit = {id:string;number:string;tower:string;floor:string;resident:string;email:string;phone:string;status:'occupied'|'vacant';monthlyRent:number;monthlyFee:number};
+export type Charge = {id:string;unitId:string;concept:string;amount:number;dueDate:string;period:string};
+export type Payment = {id:string;unitId:string;chargeId:string;amount:number;date:string;method:string;reference:string;status:'pending'|'approved'|'rejected'};
+export type Expense = {id:string;concept:string;category:string;amount:number;date:string};
+export type Ticket = {id:string;unitId:string;title:string;description:string;category:string;priority:string;status:'open'|'progress'|'resolved';date:string};
+export type Message = {id:string;unitId:string;senderRole:'admin'|'resident';senderName:string;body:string;createdAt:string};
+export type Announcement = {id:string;title:string;body:string;category:string;date:string};
+export type AuditEntry = {id:string;action:string;actor:string;date:string};
+export type Workspace = {id:string;name:string;demo:boolean};
+export type AppState = {workspaces:Workspace[];user:{id:string;name:string;email:string};membership:{role:'admin'|'resident';unitId:string|null}|null;settings:{id:string;name:string;city:string;currency:string;demo:boolean}|null;units:Unit[];charges:Charge[];payments:Payment[];expenses:Expense[];tickets:Ticket[];messages:Message[];announcements:Announcement[];audit:AuditEntry[]};

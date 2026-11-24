@@ -1,0 +1,4362 @@
+{
+  "user": {
+    "id": "demo-public",
+    "name": "Administrador",
+    "email": "demo@example.com"
+  },
+  "membership": {
+    "role": "admin",
+    "unitId": null
+  },
+  "settings": {
+    "id": "demo",
+    "name": "Conjunto Alameda",
+    "city": "Bogotá",
+    "currency": "COP",
+    "demo": true
+  },
+  "workspaces": [
+    {
+      "id": "demo",
+      "name": "Conjunto Alameda",
+      "demo": true
+    }
+  ],
+  "audit": [],
+  "units": [
+    {
+      "id": "demo-demo-unit-1",
+      "number": "A-101",
+      "tower": "A",
+      "floor": "1",
+      "resident": "Laura Martínez",
+      "email": "residente1@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 1600000,
+      "monthlyFee": 340000
+    },
+    {
+      "id": "demo-demo-unit-2",
+      "number": "A-102",
+      "tower": "A",
+      "floor": "1",
+      "resident": "Andrés Gómez",
+      "email": "residente2@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 1750000,
+      "monthlyFee": 370000
+    },
+    {
+      "id": "demo-demo-unit-3",
+      "number": "A-103",
+      "tower": "A",
+      "floor": "1",
+      "resident": "Valentina Rojas",
+      "email": "residente3@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 1900000,
+      "monthlyFee": 400000
+    },
+    {
+      "id": "demo-demo-unit-4",
+      "number": "A-201",
+      "tower": "A",
+      "floor": "2",
+      "resident": "Daniel Torres",
+      "email": "residente4@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 1600000,
+      "monthlyFee": 370000
+    },
+    {
+      "id": "demo-demo-unit-5",
+      "number": "A-202",
+      "tower": "A",
+      "floor": "2",
+      "resident": "Camila López",
+      "email": "residente5@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 1750000,
+      "monthlyFee": 400000
+    },
+    {
+      "id": "demo-demo-unit-6",
+      "number": "A-203",
+      "tower": "A",
+      "floor": "2",
+      "resident": "Santiago Díaz",
+      "email": "residente6@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 1900000,
+      "monthlyFee": 430000
+    },
+    {
+      "id": "demo-demo-unit-7",
+      "number": "A-301",
+      "tower": "A",
+      "floor": "3",
+      "resident": "Mariana Castro",
+      "email": "residente7@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 400000
+    },
+    {
+      "id": "demo-demo-unit-8",
+      "number": "A-302",
+      "tower": "A",
+      "floor": "3",
+      "resident": "Felipe Vargas",
+      "email": "residente8@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 430000
+    },
+    {
+      "id": "demo-demo-unit-9",
+      "number": "A-303",
+      "tower": "A",
+      "floor": "3",
+      "resident": "Paula Herrera",
+      "email": "residente9@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 280000
+    },
+    {
+      "id": "demo-demo-unit-10",
+      "number": "A-401",
+      "tower": "A",
+      "floor": "4",
+      "resident": "Nicolás Ruiz",
+      "email": "residente10@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 430000
+    },
+    {
+      "id": "demo-demo-unit-11",
+      "number": "A-402",
+      "tower": "A",
+      "floor": "4",
+      "resident": "Isabella Moreno",
+      "email": "residente11@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 280000
+    },
+    {
+      "id": "demo-demo-unit-12",
+      "number": "A-403",
+      "tower": "A",
+      "floor": "4",
+      "resident": "Sebastián Silva",
+      "email": "residente12@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 310000
+    },
+    {
+      "id": "demo-demo-unit-13",
+      "number": "B-101",
+      "tower": "B",
+      "floor": "1",
+      "resident": "Juliana Ramírez",
+      "email": "residente13@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 400000
+    },
+    {
+      "id": "demo-demo-unit-14",
+      "number": "B-102",
+      "tower": "B",
+      "floor": "1",
+      "resident": "Mateo Ortiz",
+      "email": "residente14@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 430000
+    },
+    {
+      "id": "demo-demo-unit-15",
+      "number": "B-103",
+      "tower": "B",
+      "floor": "1",
+      "resident": "Gabriela Jiménez",
+      "email": "residente15@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 280000
+    },
+    {
+      "id": "demo-demo-unit-16",
+      "number": "B-201",
+      "tower": "B",
+      "floor": "2",
+      "resident": "Juan Pérez",
+      "email": "residente16@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 430000
+    },
+    {
+      "id": "demo-demo-unit-17",
+      "number": "B-202",
+      "tower": "B",
+      "floor": "2",
+      "resident": "Sara Mendoza",
+      "email": "residente17@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 280000
+    },
+    {
+      "id": "demo-demo-unit-18",
+      "number": "B-203",
+      "tower": "B",
+      "floor": "2",
+      "resident": "Alejandro Cruz",
+      "email": "residente18@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 310000
+    },
+    {
+      "id": "demo-demo-unit-19",
+      "number": "B-301",
+      "tower": "B",
+      "floor": "3",
+      "resident": "Lucía Reyes",
+      "email": "residente19@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 280000
+    },
+    {
+      "id": "demo-demo-unit-20",
+      "number": "B-302",
+      "tower": "B",
+      "floor": "3",
+      "resident": "David Romero",
+      "email": "residente20@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 310000
+    },
+    {
+      "id": "demo-demo-unit-21",
+      "number": "B-303",
+      "tower": "B",
+      "floor": "3",
+      "resident": "Sofía Navarro",
+      "email": "residente21@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 340000
+    },
+    {
+      "id": "demo-demo-unit-22",
+      "number": "B-401",
+      "tower": "B",
+      "floor": "4",
+      "resident": "Tomás Medina",
+      "email": "residente22@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 310000
+    },
+    {
+      "id": "demo-demo-unit-23",
+      "number": "B-402",
+      "tower": "B",
+      "floor": "4",
+      "resident": "Ana Salazar",
+      "email": "residente23@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 340000
+    },
+    {
+      "id": "demo-demo-unit-24",
+      "number": "B-403",
+      "tower": "B",
+      "floor": "4",
+      "resident": "Miguel Cárdenas",
+      "email": "residente24@example.com",
+      "phone": "",
+      "status": "occupied",
+      "monthlyRent": 0,
+      "monthlyFee": 370000
+    }
+  ],
+  "charges": [
+    {
+      "id": "demo-demo-charge-5-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-5-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-05-10",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-rent-5-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-05-05",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-rent-5-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-05-05",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-rent-5-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-05-05",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-rent-5-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-05-05",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-rent-5-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-05-05",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-rent-5-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-05-05",
+      "period": "2026-05"
+    },
+    {
+      "id": "demo-demo-charge-6-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-6-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-06-10",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-rent-6-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-06-05",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-rent-6-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-06-05",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-rent-6-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-06-05",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-rent-6-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-06-05",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-rent-6-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-06-05",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-rent-6-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-06-05",
+      "period": "2026-06"
+    },
+    {
+      "id": "demo-demo-charge-7-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 380000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 410000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 260000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 290000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 320000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-7-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 350000,
+      "dueDate": "2026-07-10",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-rent-7-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-07-05",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-rent-7-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-07-05",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-rent-7-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-07-05",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-rent-7-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-07-05",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-rent-7-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-07-05",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-rent-7-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-07-05",
+      "period": "2026-07"
+    },
+    {
+      "id": "demo-demo-charge-8-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-8-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-08-10",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-rent-8-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-08-05",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-rent-8-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-08-05",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-rent-8-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-08-05",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-rent-8-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-08-05",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-rent-8-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-08-05",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-rent-8-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-08-05",
+      "period": "2026-08"
+    },
+    {
+      "id": "demo-demo-charge-9-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-9-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-09-10",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-rent-9-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-09-05",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-rent-9-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-09-05",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-rent-9-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-09-05",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-rent-9-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-09-05",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-rent-9-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-09-05",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-rent-9-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-09-05",
+      "period": "2026-09"
+    },
+    {
+      "id": "demo-demo-charge-10-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-10-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-10-10",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-rent-10-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-10-05",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-rent-10-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-10-05",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-rent-10-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-10-05",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-rent-10-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-10-05",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-rent-10-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-10-05",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-rent-10-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-10-05",
+      "period": "2026-10"
+    },
+    {
+      "id": "demo-demo-charge-11-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-7",
+      "unitId": "demo-demo-unit-7",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-8",
+      "unitId": "demo-demo-unit-8",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-9",
+      "unitId": "demo-demo-unit-9",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-10",
+      "unitId": "demo-demo-unit-10",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-11",
+      "unitId": "demo-demo-unit-11",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-12",
+      "unitId": "demo-demo-unit-12",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-13",
+      "unitId": "demo-demo-unit-13",
+      "concept": "Cuota de administración",
+      "amount": 400000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-14",
+      "unitId": "demo-demo-unit-14",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-15",
+      "unitId": "demo-demo-unit-15",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-16",
+      "unitId": "demo-demo-unit-16",
+      "concept": "Cuota de administración",
+      "amount": 430000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-17",
+      "unitId": "demo-demo-unit-17",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-18",
+      "unitId": "demo-demo-unit-18",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-19",
+      "unitId": "demo-demo-unit-19",
+      "concept": "Cuota de administración",
+      "amount": 280000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-20",
+      "unitId": "demo-demo-unit-20",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-21",
+      "unitId": "demo-demo-unit-21",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-22",
+      "unitId": "demo-demo-unit-22",
+      "concept": "Cuota de administración",
+      "amount": 310000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-23",
+      "unitId": "demo-demo-unit-23",
+      "concept": "Cuota de administración",
+      "amount": 340000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-charge-11-24",
+      "unitId": "demo-demo-unit-24",
+      "concept": "Cuota de administración",
+      "amount": 370000,
+      "dueDate": "2026-11-10",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-rent-11-1",
+      "unitId": "demo-demo-unit-1",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-11-05",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-rent-11-2",
+      "unitId": "demo-demo-unit-2",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-11-05",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-rent-11-3",
+      "unitId": "demo-demo-unit-3",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-11-05",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-rent-11-4",
+      "unitId": "demo-demo-unit-4",
+      "concept": "Arriendo mensual",
+      "amount": 1600000,
+      "dueDate": "2026-11-05",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-rent-11-5",
+      "unitId": "demo-demo-unit-5",
+      "concept": "Arriendo mensual",
+      "amount": 1750000,
+      "dueDate": "2026-11-05",
+      "period": "2026-11"
+    },
+    {
+      "id": "demo-demo-rent-11-6",
+      "unitId": "demo-demo-unit-6",
+      "concept": "Arriendo mensual",
+      "amount": 1900000,
+      "dueDate": "2026-11-05",
+      "period": "2026-11"
+    }
+  ],
+  "payments": [
+    {
+      "id": "demo-demo-payment-5-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-5-1",
+      "amount": 320000,
+      "date": "2026-05-03",
+      "method": "Transferencia",
+      "reference": "DEMO-5-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-5-2",
+      "amount": 350000,
+      "date": "2026-05-04",
+      "method": "Consignación",
+      "reference": "DEMO-5-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-5-3",
+      "amount": 380000,
+      "date": "2026-05-05",
+      "method": "PSE",
+      "reference": "DEMO-5-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-5-4",
+      "amount": 350000,
+      "date": "2026-05-06",
+      "method": "Transferencia",
+      "reference": "DEMO-5-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-5-5",
+      "amount": 380000,
+      "date": "2026-05-07",
+      "method": "Consignación",
+      "reference": "DEMO-5-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-5-6",
+      "amount": 410000,
+      "date": "2026-05-08",
+      "method": "PSE",
+      "reference": "DEMO-5-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-5-7",
+      "amount": 380000,
+      "date": "2026-05-09",
+      "method": "Transferencia",
+      "reference": "DEMO-5-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-5-8",
+      "amount": 410000,
+      "date": "2026-05-03",
+      "method": "Consignación",
+      "reference": "DEMO-5-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-5-9",
+      "amount": 260000,
+      "date": "2026-05-04",
+      "method": "PSE",
+      "reference": "DEMO-5-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-5-10",
+      "amount": 410000,
+      "date": "2026-05-05",
+      "method": "Transferencia",
+      "reference": "DEMO-5-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-5-11",
+      "amount": 260000,
+      "date": "2026-05-06",
+      "method": "Consignación",
+      "reference": "DEMO-5-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-5-12",
+      "amount": 290000,
+      "date": "2026-05-07",
+      "method": "PSE",
+      "reference": "DEMO-5-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-5-13",
+      "amount": 380000,
+      "date": "2026-05-08",
+      "method": "Transferencia",
+      "reference": "DEMO-5-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-5-14",
+      "amount": 410000,
+      "date": "2026-05-09",
+      "method": "Consignación",
+      "reference": "DEMO-5-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-5-15",
+      "amount": 260000,
+      "date": "2026-05-03",
+      "method": "PSE",
+      "reference": "DEMO-5-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-5-16",
+      "amount": 410000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-5-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-5-17",
+      "amount": 260000,
+      "date": "2026-05-05",
+      "method": "Consignación",
+      "reference": "DEMO-5-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-5-18",
+      "amount": 290000,
+      "date": "2026-05-06",
+      "method": "PSE",
+      "reference": "DEMO-5-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-5-19",
+      "amount": 260000,
+      "date": "2026-05-07",
+      "method": "Transferencia",
+      "reference": "DEMO-5-019",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-5-20",
+      "amount": 290000,
+      "date": "2026-05-08",
+      "method": "Consignación",
+      "reference": "DEMO-5-020",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-21",
+      "unitId": "demo-demo-unit-21",
+      "chargeId": "demo-demo-charge-5-21",
+      "amount": 320000,
+      "date": "2026-05-09",
+      "method": "PSE",
+      "reference": "DEMO-5-021",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-22",
+      "unitId": "demo-demo-unit-22",
+      "chargeId": "demo-demo-charge-5-22",
+      "amount": 290000,
+      "date": "2026-05-03",
+      "method": "Transferencia",
+      "reference": "DEMO-5-022",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-23",
+      "unitId": "demo-demo-unit-23",
+      "chargeId": "demo-demo-charge-5-23",
+      "amount": 320000,
+      "date": "2026-05-04",
+      "method": "Consignación",
+      "reference": "DEMO-5-023",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-5-24",
+      "unitId": "demo-demo-unit-24",
+      "chargeId": "demo-demo-charge-5-24",
+      "amount": 350000,
+      "date": "2026-05-05",
+      "method": "PSE",
+      "reference": "DEMO-5-024",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-5-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-5-1",
+      "amount": 1600000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-5-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-5-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-5-2",
+      "amount": 1750000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-5-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-5-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-5-3",
+      "amount": 1900000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-5-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-5-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-5-4",
+      "amount": 1600000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-5-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-5-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-5-5",
+      "amount": 1750000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-5-5",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-5-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-rent-5-6",
+      "amount": 1900000,
+      "date": "2026-05-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-5-6",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-6-1",
+      "amount": 320000,
+      "date": "2026-06-03",
+      "method": "Transferencia",
+      "reference": "DEMO-6-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-6-2",
+      "amount": 350000,
+      "date": "2026-06-04",
+      "method": "Consignación",
+      "reference": "DEMO-6-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-6-3",
+      "amount": 380000,
+      "date": "2026-06-05",
+      "method": "PSE",
+      "reference": "DEMO-6-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-6-4",
+      "amount": 350000,
+      "date": "2026-06-06",
+      "method": "Transferencia",
+      "reference": "DEMO-6-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-6-5",
+      "amount": 380000,
+      "date": "2026-06-07",
+      "method": "Consignación",
+      "reference": "DEMO-6-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-6-6",
+      "amount": 410000,
+      "date": "2026-06-08",
+      "method": "PSE",
+      "reference": "DEMO-6-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-6-7",
+      "amount": 380000,
+      "date": "2026-06-09",
+      "method": "Transferencia",
+      "reference": "DEMO-6-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-6-8",
+      "amount": 410000,
+      "date": "2026-06-03",
+      "method": "Consignación",
+      "reference": "DEMO-6-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-6-9",
+      "amount": 260000,
+      "date": "2026-06-04",
+      "method": "PSE",
+      "reference": "DEMO-6-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-6-10",
+      "amount": 410000,
+      "date": "2026-06-05",
+      "method": "Transferencia",
+      "reference": "DEMO-6-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-6-11",
+      "amount": 260000,
+      "date": "2026-06-06",
+      "method": "Consignación",
+      "reference": "DEMO-6-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-6-12",
+      "amount": 290000,
+      "date": "2026-06-07",
+      "method": "PSE",
+      "reference": "DEMO-6-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-6-13",
+      "amount": 380000,
+      "date": "2026-06-08",
+      "method": "Transferencia",
+      "reference": "DEMO-6-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-6-14",
+      "amount": 410000,
+      "date": "2026-06-09",
+      "method": "Consignación",
+      "reference": "DEMO-6-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-6-15",
+      "amount": 260000,
+      "date": "2026-06-03",
+      "method": "PSE",
+      "reference": "DEMO-6-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-6-16",
+      "amount": 410000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-6-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-6-17",
+      "amount": 260000,
+      "date": "2026-06-05",
+      "method": "Consignación",
+      "reference": "DEMO-6-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-6-18",
+      "amount": 290000,
+      "date": "2026-06-06",
+      "method": "PSE",
+      "reference": "DEMO-6-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-6-19",
+      "amount": 260000,
+      "date": "2026-06-07",
+      "method": "Transferencia",
+      "reference": "DEMO-6-019",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-6-20",
+      "amount": 290000,
+      "date": "2026-06-08",
+      "method": "Consignación",
+      "reference": "DEMO-6-020",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-21",
+      "unitId": "demo-demo-unit-21",
+      "chargeId": "demo-demo-charge-6-21",
+      "amount": 320000,
+      "date": "2026-06-09",
+      "method": "PSE",
+      "reference": "DEMO-6-021",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-22",
+      "unitId": "demo-demo-unit-22",
+      "chargeId": "demo-demo-charge-6-22",
+      "amount": 290000,
+      "date": "2026-06-03",
+      "method": "Transferencia",
+      "reference": "DEMO-6-022",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-23",
+      "unitId": "demo-demo-unit-23",
+      "chargeId": "demo-demo-charge-6-23",
+      "amount": 320000,
+      "date": "2026-06-04",
+      "method": "Consignación",
+      "reference": "DEMO-6-023",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-6-24",
+      "unitId": "demo-demo-unit-24",
+      "chargeId": "demo-demo-charge-6-24",
+      "amount": 350000,
+      "date": "2026-06-05",
+      "method": "PSE",
+      "reference": "DEMO-6-024",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-6-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-6-1",
+      "amount": 1600000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-6-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-6-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-6-2",
+      "amount": 1750000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-6-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-6-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-6-3",
+      "amount": 1900000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-6-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-6-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-6-4",
+      "amount": 1600000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-6-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-6-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-6-5",
+      "amount": 1750000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-6-5",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-6-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-rent-6-6",
+      "amount": 1900000,
+      "date": "2026-06-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-6-6",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-7-1",
+      "amount": 320000,
+      "date": "2026-07-03",
+      "method": "Transferencia",
+      "reference": "DEMO-7-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-7-2",
+      "amount": 350000,
+      "date": "2026-07-04",
+      "method": "Consignación",
+      "reference": "DEMO-7-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-7-3",
+      "amount": 380000,
+      "date": "2026-07-05",
+      "method": "PSE",
+      "reference": "DEMO-7-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-7-4",
+      "amount": 350000,
+      "date": "2026-07-06",
+      "method": "Transferencia",
+      "reference": "DEMO-7-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-7-5",
+      "amount": 380000,
+      "date": "2026-07-07",
+      "method": "Consignación",
+      "reference": "DEMO-7-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-7-6",
+      "amount": 410000,
+      "date": "2026-07-08",
+      "method": "PSE",
+      "reference": "DEMO-7-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-7-7",
+      "amount": 380000,
+      "date": "2026-07-09",
+      "method": "Transferencia",
+      "reference": "DEMO-7-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-7-8",
+      "amount": 410000,
+      "date": "2026-07-03",
+      "method": "Consignación",
+      "reference": "DEMO-7-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-7-9",
+      "amount": 260000,
+      "date": "2026-07-04",
+      "method": "PSE",
+      "reference": "DEMO-7-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-7-10",
+      "amount": 410000,
+      "date": "2026-07-05",
+      "method": "Transferencia",
+      "reference": "DEMO-7-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-7-11",
+      "amount": 260000,
+      "date": "2026-07-06",
+      "method": "Consignación",
+      "reference": "DEMO-7-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-7-12",
+      "amount": 290000,
+      "date": "2026-07-07",
+      "method": "PSE",
+      "reference": "DEMO-7-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-7-13",
+      "amount": 380000,
+      "date": "2026-07-08",
+      "method": "Transferencia",
+      "reference": "DEMO-7-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-7-14",
+      "amount": 410000,
+      "date": "2026-07-09",
+      "method": "Consignación",
+      "reference": "DEMO-7-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-7-15",
+      "amount": 260000,
+      "date": "2026-07-03",
+      "method": "PSE",
+      "reference": "DEMO-7-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-7-16",
+      "amount": 410000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-7-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-7-17",
+      "amount": 260000,
+      "date": "2026-07-05",
+      "method": "Consignación",
+      "reference": "DEMO-7-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-7-18",
+      "amount": 290000,
+      "date": "2026-07-06",
+      "method": "PSE",
+      "reference": "DEMO-7-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-7-19",
+      "amount": 260000,
+      "date": "2026-07-07",
+      "method": "Transferencia",
+      "reference": "DEMO-7-019",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-7-20",
+      "amount": 290000,
+      "date": "2026-07-08",
+      "method": "Consignación",
+      "reference": "DEMO-7-020",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-21",
+      "unitId": "demo-demo-unit-21",
+      "chargeId": "demo-demo-charge-7-21",
+      "amount": 320000,
+      "date": "2026-07-09",
+      "method": "PSE",
+      "reference": "DEMO-7-021",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-22",
+      "unitId": "demo-demo-unit-22",
+      "chargeId": "demo-demo-charge-7-22",
+      "amount": 290000,
+      "date": "2026-07-03",
+      "method": "Transferencia",
+      "reference": "DEMO-7-022",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-23",
+      "unitId": "demo-demo-unit-23",
+      "chargeId": "demo-demo-charge-7-23",
+      "amount": 320000,
+      "date": "2026-07-04",
+      "method": "Consignación",
+      "reference": "DEMO-7-023",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-7-24",
+      "unitId": "demo-demo-unit-24",
+      "chargeId": "demo-demo-charge-7-24",
+      "amount": 350000,
+      "date": "2026-07-05",
+      "method": "PSE",
+      "reference": "DEMO-7-024",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-7-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-7-1",
+      "amount": 1600000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-7-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-7-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-7-2",
+      "amount": 1750000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-7-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-7-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-7-3",
+      "amount": 1900000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-7-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-7-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-7-4",
+      "amount": 1600000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-7-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-7-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-7-5",
+      "amount": 1750000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-7-5",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-7-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-rent-7-6",
+      "amount": 1900000,
+      "date": "2026-07-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-7-6",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-8-1",
+      "amount": 340000,
+      "date": "2026-08-03",
+      "method": "Transferencia",
+      "reference": "DEMO-8-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-8-2",
+      "amount": 370000,
+      "date": "2026-08-04",
+      "method": "Consignación",
+      "reference": "DEMO-8-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-8-3",
+      "amount": 400000,
+      "date": "2026-08-05",
+      "method": "PSE",
+      "reference": "DEMO-8-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-8-4",
+      "amount": 370000,
+      "date": "2026-08-06",
+      "method": "Transferencia",
+      "reference": "DEMO-8-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-8-5",
+      "amount": 400000,
+      "date": "2026-08-07",
+      "method": "Consignación",
+      "reference": "DEMO-8-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-8-6",
+      "amount": 430000,
+      "date": "2026-08-08",
+      "method": "PSE",
+      "reference": "DEMO-8-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-8-7",
+      "amount": 400000,
+      "date": "2026-08-09",
+      "method": "Transferencia",
+      "reference": "DEMO-8-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-8-8",
+      "amount": 430000,
+      "date": "2026-08-03",
+      "method": "Consignación",
+      "reference": "DEMO-8-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-8-9",
+      "amount": 280000,
+      "date": "2026-08-04",
+      "method": "PSE",
+      "reference": "DEMO-8-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-8-10",
+      "amount": 430000,
+      "date": "2026-08-05",
+      "method": "Transferencia",
+      "reference": "DEMO-8-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-8-11",
+      "amount": 280000,
+      "date": "2026-08-06",
+      "method": "Consignación",
+      "reference": "DEMO-8-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-8-12",
+      "amount": 310000,
+      "date": "2026-08-07",
+      "method": "PSE",
+      "reference": "DEMO-8-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-8-13",
+      "amount": 400000,
+      "date": "2026-08-08",
+      "method": "Transferencia",
+      "reference": "DEMO-8-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-8-14",
+      "amount": 430000,
+      "date": "2026-08-09",
+      "method": "Consignación",
+      "reference": "DEMO-8-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-8-15",
+      "amount": 280000,
+      "date": "2026-08-03",
+      "method": "PSE",
+      "reference": "DEMO-8-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-8-16",
+      "amount": 430000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-8-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-8-17",
+      "amount": 280000,
+      "date": "2026-08-05",
+      "method": "Consignación",
+      "reference": "DEMO-8-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-8-18",
+      "amount": 310000,
+      "date": "2026-08-06",
+      "method": "PSE",
+      "reference": "DEMO-8-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-8-19",
+      "amount": 280000,
+      "date": "2026-08-07",
+      "method": "Transferencia",
+      "reference": "DEMO-8-019",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-8-20",
+      "amount": 310000,
+      "date": "2026-08-08",
+      "method": "Consignación",
+      "reference": "DEMO-8-020",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-21",
+      "unitId": "demo-demo-unit-21",
+      "chargeId": "demo-demo-charge-8-21",
+      "amount": 340000,
+      "date": "2026-08-09",
+      "method": "PSE",
+      "reference": "DEMO-8-021",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-22",
+      "unitId": "demo-demo-unit-22",
+      "chargeId": "demo-demo-charge-8-22",
+      "amount": 310000,
+      "date": "2026-08-03",
+      "method": "Transferencia",
+      "reference": "DEMO-8-022",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-23",
+      "unitId": "demo-demo-unit-23",
+      "chargeId": "demo-demo-charge-8-23",
+      "amount": 340000,
+      "date": "2026-08-04",
+      "method": "Consignación",
+      "reference": "DEMO-8-023",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-8-24",
+      "unitId": "demo-demo-unit-24",
+      "chargeId": "demo-demo-charge-8-24",
+      "amount": 370000,
+      "date": "2026-08-05",
+      "method": "PSE",
+      "reference": "DEMO-8-024",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-8-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-8-1",
+      "amount": 1600000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-8-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-8-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-8-2",
+      "amount": 1750000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-8-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-8-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-8-3",
+      "amount": 1900000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-8-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-8-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-8-4",
+      "amount": 1600000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-8-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-8-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-8-5",
+      "amount": 1750000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-8-5",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-8-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-rent-8-6",
+      "amount": 1900000,
+      "date": "2026-08-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-8-6",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-9-1",
+      "amount": 340000,
+      "date": "2026-09-03",
+      "method": "Transferencia",
+      "reference": "DEMO-9-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-9-2",
+      "amount": 370000,
+      "date": "2026-09-04",
+      "method": "Consignación",
+      "reference": "DEMO-9-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-9-3",
+      "amount": 400000,
+      "date": "2026-09-05",
+      "method": "PSE",
+      "reference": "DEMO-9-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-9-4",
+      "amount": 370000,
+      "date": "2026-09-06",
+      "method": "Transferencia",
+      "reference": "DEMO-9-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-9-5",
+      "amount": 400000,
+      "date": "2026-09-07",
+      "method": "Consignación",
+      "reference": "DEMO-9-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-9-6",
+      "amount": 430000,
+      "date": "2026-09-08",
+      "method": "PSE",
+      "reference": "DEMO-9-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-9-7",
+      "amount": 400000,
+      "date": "2026-09-09",
+      "method": "Transferencia",
+      "reference": "DEMO-9-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-9-8",
+      "amount": 430000,
+      "date": "2026-09-03",
+      "method": "Consignación",
+      "reference": "DEMO-9-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-9-9",
+      "amount": 280000,
+      "date": "2026-09-04",
+      "method": "PSE",
+      "reference": "DEMO-9-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-9-10",
+      "amount": 430000,
+      "date": "2026-09-05",
+      "method": "Transferencia",
+      "reference": "DEMO-9-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-9-11",
+      "amount": 280000,
+      "date": "2026-09-06",
+      "method": "Consignación",
+      "reference": "DEMO-9-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-9-12",
+      "amount": 310000,
+      "date": "2026-09-07",
+      "method": "PSE",
+      "reference": "DEMO-9-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-9-13",
+      "amount": 400000,
+      "date": "2026-09-08",
+      "method": "Transferencia",
+      "reference": "DEMO-9-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-9-14",
+      "amount": 430000,
+      "date": "2026-09-09",
+      "method": "Consignación",
+      "reference": "DEMO-9-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-9-15",
+      "amount": 280000,
+      "date": "2026-09-03",
+      "method": "PSE",
+      "reference": "DEMO-9-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-9-16",
+      "amount": 430000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-9-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-9-17",
+      "amount": 280000,
+      "date": "2026-09-05",
+      "method": "Consignación",
+      "reference": "DEMO-9-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-9-18",
+      "amount": 310000,
+      "date": "2026-09-06",
+      "method": "PSE",
+      "reference": "DEMO-9-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-9-19",
+      "amount": 280000,
+      "date": "2026-09-07",
+      "method": "Transferencia",
+      "reference": "DEMO-9-019",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-9-20",
+      "amount": 310000,
+      "date": "2026-09-08",
+      "method": "Consignación",
+      "reference": "DEMO-9-020",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-21",
+      "unitId": "demo-demo-unit-21",
+      "chargeId": "demo-demo-charge-9-21",
+      "amount": 340000,
+      "date": "2026-09-09",
+      "method": "PSE",
+      "reference": "DEMO-9-021",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-22",
+      "unitId": "demo-demo-unit-22",
+      "chargeId": "demo-demo-charge-9-22",
+      "amount": 310000,
+      "date": "2026-09-03",
+      "method": "Transferencia",
+      "reference": "DEMO-9-022",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-23",
+      "unitId": "demo-demo-unit-23",
+      "chargeId": "demo-demo-charge-9-23",
+      "amount": 340000,
+      "date": "2026-09-04",
+      "method": "Consignación",
+      "reference": "DEMO-9-023",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-9-24",
+      "unitId": "demo-demo-unit-24",
+      "chargeId": "demo-demo-charge-9-24",
+      "amount": 370000,
+      "date": "2026-09-05",
+      "method": "PSE",
+      "reference": "DEMO-9-024",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-9-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-9-1",
+      "amount": 1600000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-9-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-9-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-9-2",
+      "amount": 1750000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-9-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-9-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-9-3",
+      "amount": 1900000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-9-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-9-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-9-4",
+      "amount": 1600000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-9-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-9-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-9-5",
+      "amount": 1750000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-9-5",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-9-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-rent-9-6",
+      "amount": 1900000,
+      "date": "2026-09-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-9-6",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-10-1",
+      "amount": 340000,
+      "date": "2026-10-03",
+      "method": "Transferencia",
+      "reference": "DEMO-10-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-10-2",
+      "amount": 370000,
+      "date": "2026-10-04",
+      "method": "Consignación",
+      "reference": "DEMO-10-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-10-3",
+      "amount": 400000,
+      "date": "2026-10-05",
+      "method": "PSE",
+      "reference": "DEMO-10-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-10-4",
+      "amount": 370000,
+      "date": "2026-10-06",
+      "method": "Transferencia",
+      "reference": "DEMO-10-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-10-5",
+      "amount": 400000,
+      "date": "2026-10-07",
+      "method": "Consignación",
+      "reference": "DEMO-10-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-10-6",
+      "amount": 430000,
+      "date": "2026-10-08",
+      "method": "PSE",
+      "reference": "DEMO-10-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-10-7",
+      "amount": 400000,
+      "date": "2026-10-09",
+      "method": "Transferencia",
+      "reference": "DEMO-10-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-10-8",
+      "amount": 430000,
+      "date": "2026-10-03",
+      "method": "Consignación",
+      "reference": "DEMO-10-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-10-9",
+      "amount": 280000,
+      "date": "2026-10-04",
+      "method": "PSE",
+      "reference": "DEMO-10-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-10-10",
+      "amount": 430000,
+      "date": "2026-10-05",
+      "method": "Transferencia",
+      "reference": "DEMO-10-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-10-11",
+      "amount": 280000,
+      "date": "2026-10-06",
+      "method": "Consignación",
+      "reference": "DEMO-10-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-10-12",
+      "amount": 310000,
+      "date": "2026-10-07",
+      "method": "PSE",
+      "reference": "DEMO-10-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-10-13",
+      "amount": 400000,
+      "date": "2026-10-08",
+      "method": "Transferencia",
+      "reference": "DEMO-10-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-10-14",
+      "amount": 430000,
+      "date": "2026-10-09",
+      "method": "Consignación",
+      "reference": "DEMO-10-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-10-15",
+      "amount": 280000,
+      "date": "2026-10-03",
+      "method": "PSE",
+      "reference": "DEMO-10-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-10-16",
+      "amount": 430000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-10-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-10-17",
+      "amount": 280000,
+      "date": "2026-10-05",
+      "method": "Consignación",
+      "reference": "DEMO-10-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-10-18",
+      "amount": 310000,
+      "date": "2026-10-06",
+      "method": "PSE",
+      "reference": "DEMO-10-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-10-19",
+      "amount": 280000,
+      "date": "2026-10-07",
+      "method": "Transferencia",
+      "reference": "DEMO-10-019",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-10-20",
+      "amount": 310000,
+      "date": "2026-10-08",
+      "method": "Consignación",
+      "reference": "DEMO-10-020",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-21",
+      "unitId": "demo-demo-unit-21",
+      "chargeId": "demo-demo-charge-10-21",
+      "amount": 340000,
+      "date": "2026-10-09",
+      "method": "PSE",
+      "reference": "DEMO-10-021",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-22",
+      "unitId": "demo-demo-unit-22",
+      "chargeId": "demo-demo-charge-10-22",
+      "amount": 310000,
+      "date": "2026-10-03",
+      "method": "Transferencia",
+      "reference": "DEMO-10-022",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-23",
+      "unitId": "demo-demo-unit-23",
+      "chargeId": "demo-demo-charge-10-23",
+      "amount": 340000,
+      "date": "2026-10-04",
+      "method": "Consignación",
+      "reference": "DEMO-10-023",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-10-24",
+      "unitId": "demo-demo-unit-24",
+      "chargeId": "demo-demo-charge-10-24",
+      "amount": 370000,
+      "date": "2026-10-05",
+      "method": "PSE",
+      "reference": "DEMO-10-024",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-10-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-10-1",
+      "amount": 1600000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-10-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-10-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-10-2",
+      "amount": 1750000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-10-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-10-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-10-3",
+      "amount": 1900000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-10-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-10-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-10-4",
+      "amount": 1600000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-10-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-10-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-10-5",
+      "amount": 1750000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-10-5",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-10-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-rent-10-6",
+      "amount": 1900000,
+      "date": "2026-10-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-10-6",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-charge-11-1",
+      "amount": 340000,
+      "date": "2026-11-03",
+      "method": "Transferencia",
+      "reference": "DEMO-11-001",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-charge-11-2",
+      "amount": 370000,
+      "date": "2026-11-04",
+      "method": "Consignación",
+      "reference": "DEMO-11-002",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-charge-11-3",
+      "amount": 400000,
+      "date": "2026-11-05",
+      "method": "PSE",
+      "reference": "DEMO-11-003",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-charge-11-4",
+      "amount": 370000,
+      "date": "2026-11-06",
+      "method": "Transferencia",
+      "reference": "DEMO-11-004",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-charge-11-5",
+      "amount": 400000,
+      "date": "2026-11-07",
+      "method": "Consignación",
+      "reference": "DEMO-11-005",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-6",
+      "unitId": "demo-demo-unit-6",
+      "chargeId": "demo-demo-charge-11-6",
+      "amount": 430000,
+      "date": "2026-11-08",
+      "method": "PSE",
+      "reference": "DEMO-11-006",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-7",
+      "unitId": "demo-demo-unit-7",
+      "chargeId": "demo-demo-charge-11-7",
+      "amount": 400000,
+      "date": "2026-11-09",
+      "method": "Transferencia",
+      "reference": "DEMO-11-007",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-8",
+      "unitId": "demo-demo-unit-8",
+      "chargeId": "demo-demo-charge-11-8",
+      "amount": 430000,
+      "date": "2026-11-03",
+      "method": "Consignación",
+      "reference": "DEMO-11-008",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-9",
+      "unitId": "demo-demo-unit-9",
+      "chargeId": "demo-demo-charge-11-9",
+      "amount": 280000,
+      "date": "2026-11-04",
+      "method": "PSE",
+      "reference": "DEMO-11-009",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-10",
+      "unitId": "demo-demo-unit-10",
+      "chargeId": "demo-demo-charge-11-10",
+      "amount": 430000,
+      "date": "2026-11-05",
+      "method": "Transferencia",
+      "reference": "DEMO-11-010",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-11",
+      "unitId": "demo-demo-unit-11",
+      "chargeId": "demo-demo-charge-11-11",
+      "amount": 280000,
+      "date": "2026-11-06",
+      "method": "Consignación",
+      "reference": "DEMO-11-011",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-12",
+      "unitId": "demo-demo-unit-12",
+      "chargeId": "demo-demo-charge-11-12",
+      "amount": 310000,
+      "date": "2026-11-07",
+      "method": "PSE",
+      "reference": "DEMO-11-012",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-13",
+      "unitId": "demo-demo-unit-13",
+      "chargeId": "demo-demo-charge-11-13",
+      "amount": 400000,
+      "date": "2026-11-08",
+      "method": "Transferencia",
+      "reference": "DEMO-11-013",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-14",
+      "unitId": "demo-demo-unit-14",
+      "chargeId": "demo-demo-charge-11-14",
+      "amount": 430000,
+      "date": "2026-11-09",
+      "method": "Consignación",
+      "reference": "DEMO-11-014",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-15",
+      "unitId": "demo-demo-unit-15",
+      "chargeId": "demo-demo-charge-11-15",
+      "amount": 280000,
+      "date": "2026-11-03",
+      "method": "PSE",
+      "reference": "DEMO-11-015",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-16",
+      "unitId": "demo-demo-unit-16",
+      "chargeId": "demo-demo-charge-11-16",
+      "amount": 430000,
+      "date": "2026-11-04",
+      "method": "Transferencia",
+      "reference": "DEMO-11-016",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-17",
+      "unitId": "demo-demo-unit-17",
+      "chargeId": "demo-demo-charge-11-17",
+      "amount": 280000,
+      "date": "2026-11-05",
+      "method": "Consignación",
+      "reference": "DEMO-11-017",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-18",
+      "unitId": "demo-demo-unit-18",
+      "chargeId": "demo-demo-charge-11-18",
+      "amount": 310000,
+      "date": "2026-11-06",
+      "method": "PSE",
+      "reference": "DEMO-11-018",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-payment-11-19",
+      "unitId": "demo-demo-unit-19",
+      "chargeId": "demo-demo-charge-11-19",
+      "amount": 280000,
+      "date": "2026-11-07",
+      "method": "Transferencia",
+      "reference": "DEMO-11-019",
+      "status": "pending"
+    },
+    {
+      "id": "demo-demo-payment-11-20",
+      "unitId": "demo-demo-unit-20",
+      "chargeId": "demo-demo-charge-11-20",
+      "amount": 310000,
+      "date": "2026-11-08",
+      "method": "Consignación",
+      "reference": "DEMO-11-020",
+      "status": "pending"
+    },
+    {
+      "id": "demo-demo-rent-payment-11-1",
+      "unitId": "demo-demo-unit-1",
+      "chargeId": "demo-demo-rent-11-1",
+      "amount": 1600000,
+      "date": "2026-11-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-11-1",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-11-2",
+      "unitId": "demo-demo-unit-2",
+      "chargeId": "demo-demo-rent-11-2",
+      "amount": 1750000,
+      "date": "2026-11-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-11-2",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-11-3",
+      "unitId": "demo-demo-unit-3",
+      "chargeId": "demo-demo-rent-11-3",
+      "amount": 1900000,
+      "date": "2026-11-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-11-3",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-11-4",
+      "unitId": "demo-demo-unit-4",
+      "chargeId": "demo-demo-rent-11-4",
+      "amount": 1600000,
+      "date": "2026-11-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-11-4",
+      "status": "approved"
+    },
+    {
+      "id": "demo-demo-rent-payment-11-5",
+      "unitId": "demo-demo-unit-5",
+      "chargeId": "demo-demo-rent-11-5",
+      "amount": 1750000,
+      "date": "2026-11-04",
+      "method": "Transferencia",
+      "reference": "DEMO-ARR-11-5",
+      "status": "approved"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "demo-demo-expense-5-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2770000,
+      "date": "2026-05-05"
+    },
+    {
+      "id": "demo-demo-expense-5-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1220000,
+      "date": "2026-05-08"
+    },
+    {
+      "id": "demo-demo-expense-5-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 650000,
+      "date": "2026-05-12"
+    },
+    {
+      "id": "demo-demo-expense-5-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 490000,
+      "date": "2026-05-15"
+    },
+    {
+      "id": "demo-demo-expense-6-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2770000,
+      "date": "2026-06-05"
+    },
+    {
+      "id": "demo-demo-expense-6-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1220000,
+      "date": "2026-06-08"
+    },
+    {
+      "id": "demo-demo-expense-6-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 650000,
+      "date": "2026-06-12"
+    },
+    {
+      "id": "demo-demo-expense-6-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 490000,
+      "date": "2026-06-15"
+    },
+    {
+      "id": "demo-demo-expense-7-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2770000,
+      "date": "2026-07-05"
+    },
+    {
+      "id": "demo-demo-expense-7-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1220000,
+      "date": "2026-07-08"
+    },
+    {
+      "id": "demo-demo-expense-7-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 650000,
+      "date": "2026-07-12"
+    },
+    {
+      "id": "demo-demo-expense-7-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 490000,
+      "date": "2026-07-15"
+    },
+    {
+      "id": "demo-demo-expense-8-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2770000,
+      "date": "2026-08-05"
+    },
+    {
+      "id": "demo-demo-expense-8-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1220000,
+      "date": "2026-08-08"
+    },
+    {
+      "id": "demo-demo-expense-8-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 650000,
+      "date": "2026-08-12"
+    },
+    {
+      "id": "demo-demo-expense-8-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 490000,
+      "date": "2026-08-15"
+    },
+    {
+      "id": "demo-demo-expense-9-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2800000,
+      "date": "2026-09-05"
+    },
+    {
+      "id": "demo-demo-expense-9-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1250000,
+      "date": "2026-09-08"
+    },
+    {
+      "id": "demo-demo-expense-9-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 680000,
+      "date": "2026-09-12"
+    },
+    {
+      "id": "demo-demo-expense-9-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 520000,
+      "date": "2026-09-15"
+    },
+    {
+      "id": "demo-demo-expense-10-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2800000,
+      "date": "2026-10-05"
+    },
+    {
+      "id": "demo-demo-expense-10-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1250000,
+      "date": "2026-10-08"
+    },
+    {
+      "id": "demo-demo-expense-10-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 680000,
+      "date": "2026-10-12"
+    },
+    {
+      "id": "demo-demo-expense-10-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 520000,
+      "date": "2026-10-15"
+    },
+    {
+      "id": "demo-demo-expense-11-0",
+      "concept": "Servicio de vigilancia",
+      "category": "Seguridad",
+      "amount": 2800000,
+      "date": "2026-11-05"
+    },
+    {
+      "id": "demo-demo-expense-11-1",
+      "concept": "Aseo de zonas comunes",
+      "category": "Aseo",
+      "amount": 1250000,
+      "date": "2026-11-08"
+    },
+    {
+      "id": "demo-demo-expense-11-2",
+      "concept": "Energía de zonas comunes",
+      "category": "Servicios públicos",
+      "amount": 680000,
+      "date": "2026-11-12"
+    },
+    {
+      "id": "demo-demo-expense-11-3",
+      "concept": "Mantenimiento de ascensores",
+      "category": "Mantenimiento",
+      "amount": 520000,
+      "date": "2026-11-15"
+    },
+    {
+      "id": "demo-demo-expense-11-4",
+      "concept": "Reparación de iluminación del parqueadero",
+      "category": "Mantenimiento",
+      "amount": 235000,
+      "date": "2026-11-20"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "demo-demo-ticket-0",
+      "unitId": "demo-demo-unit-1",
+      "title": "Filtración en el techo de la cocina",
+      "description": "Hay una pequeña filtración junto a la ventana de la cocina. Solicito revisión de mantenimiento.",
+      "category": "Mantenimiento",
+      "priority": "high",
+      "status": "open",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "demo-demo-ticket-1",
+      "unitId": "demo-demo-unit-4",
+      "title": "Luz del pasillo intermitente",
+      "description": "La lámpara del segundo piso de la torre A parpadea desde ayer.",
+      "category": "Zonas comunes",
+      "priority": "medium",
+      "status": "progress",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "demo-demo-ticket-2",
+      "unitId": "demo-demo-unit-15",
+      "title": "Actualización del control de acceso",
+      "description": "Necesito actualizar el registro de mi vehículo en portería.",
+      "category": "Seguridad",
+      "priority": "low",
+      "status": "open",
+      "date": "2026-11-22"
+    },
+    {
+      "id": "demo-demo-ticket-3",
+      "unitId": "demo-demo-unit-8",
+      "title": "Revisión de citófono",
+      "description": "El citófono ya fue revisado y funciona correctamente. Gracias por el apoyo.",
+      "category": "Mantenimiento",
+      "priority": "medium",
+      "status": "resolved",
+      "date": "2026-11-20"
+    }
+  ],
+  "messages": [
+    {
+      "id": "demo-demo-message-0",
+      "unitId": "demo-demo-unit-1",
+      "senderRole": "resident",
+      "senderName": "Laura Martínez",
+      "body": "Buenos días. ¿Podrían ayudarme con la filtración que reporté en mi apartamento?",
+      "createdAt": "2026-11-24T13:15:00.000Z"
+    },
+    {
+      "id": "demo-demo-message-1",
+      "unitId": "demo-demo-unit-1",
+      "senderRole": "admin",
+      "senderName": "Administración",
+      "body": "Hola, Laura. Ya recibimos tu solicitud. Estamos coordinando la visita de mantenimiento.",
+      "createdAt": "2026-11-24T13:20:00.000Z"
+    },
+    {
+      "id": "demo-demo-message-2",
+      "unitId": "demo-demo-unit-1",
+      "senderRole": "resident",
+      "senderName": "Laura Martínez",
+      "body": "Muchas gracias. Estaré disponible hoy después de las 3 de la tarde.",
+      "createdAt": "2026-11-24T13:23:00.000Z"
+    },
+    {
+      "id": "demo-demo-message-3",
+      "unitId": "demo-demo-unit-19",
+      "senderRole": "resident",
+      "senderName": "Lucía Reyes",
+      "body": "Hola. Acabo de registrar el pago de la administración de noviembre. Quedo pendiente de la confirmación.",
+      "createdAt": "2026-11-23T19:10:00.000Z"
+    },
+    {
+      "id": "demo-demo-message-4",
+      "unitId": "demo-demo-unit-19",
+      "senderRole": "admin",
+      "senderName": "Administración",
+      "body": "Gracias, Lucía. El reporte está pendiente de conciliación y te confirmaremos por este medio.",
+      "createdAt": "2026-11-23T19:18:00.000Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "demo-demo-notice-0",
+      "title": "Mantenimiento programado de ascensores",
+      "body": "El jueves 26 de noviembre, de 9:00 a. m. a 12:00 m., realizaremos mantenimiento preventivo en los ascensores de ambas torres. Agradecemos su comprensión.",
+      "category": "Mantenimiento",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "demo-demo-notice-1",
+      "title": "Jornada de convivencia y zonas comunes",
+      "body": "Les invitamos a nuestra jornada de convivencia el sábado 28 de noviembre a las 10:00 a. m. en el salón social. Compartiremos propuestas para cuidar nuestros espacios.",
+      "category": "Comunidad",
+      "date": "2026-11-22"
+    },
+    {
+      "id": "demo-demo-notice-2",
+      "title": "Recuerden registrar sus pagos",
+      "body": "Después de realizar su transferencia, pueden registrar el valor y la referencia en la sección Mis pagos. Administración verificará cada reporte antes de aplicarlo al estado de cuenta.",
+      "category": "Administración",
+      "date": "2026-11-18"
+    }
+  ]
+}
